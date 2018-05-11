@@ -64,13 +64,14 @@ th {
 th, td {
     border: 1px solid black;
     padding: 7px;
+    font-size: 150%;
 }
 
 /* #Basic Styles
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "Raleway", "HelveticaNeue-Light", Arial, sans-serif;
+		font: 14px/21px "Lato", "HelveticaNeue", Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
